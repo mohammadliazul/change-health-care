@@ -1,0 +1,21 @@
+
+.service { 
+    height: 580px;
+    transition: 0.5s;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: #e9e9e9;
+  }
+  .half{
+      height: 500px;
+  }
+  .service:hover {
+    box-shadow: 2px 5px 10px gray;
+  }
+  .button{
+      background-color: #1c3f61;
+      border:#1c3f61;
+      color: white;
+      border-radius: 15px;
+      width: max-content;
+  }

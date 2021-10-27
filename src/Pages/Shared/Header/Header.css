@@ -1,0 +1,30 @@
+.logo-size{
+    height: 70px;
+    width: auto;
+}
+.nav-bar{
+    background-color: #1c3f61;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.nav-Link{
+    margin-right: 3rem;
+    text-decoration: none;
+    color: lightgrey;
+}
+.nav-Link:hover{
+    color: lightgrey;
+    text-underline-offset: 5px;
+    text-decoration: underline;
+    text-decoration-color: rgb(218, 95, 95);
+}
+.nav-Link:focus{
+    text-underline-offset: 5px;
+    text-decoration: underline;
+    text-decoration-color: rgb(218, 95, 95);
+}
+.logout-btn{
+    background: #cc2a3f;
+    border-radius: 25px;
+    border: none;
+}
